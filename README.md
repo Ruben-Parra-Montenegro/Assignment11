@@ -11,4 +11,4 @@ for example
 
 this program can do bubble sort and merge sort
 
-it generates random number arrays and randome word arrays and sorts them using the 2 sort methods and prints out how long it takes and prints out the arrays.
+it generates random number arrays and random word arrays and sorts them using the 2 sort methods and prints out how long it takes and prints out the arrays.
